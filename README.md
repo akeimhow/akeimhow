@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @akeimhow
+- 👋 Hi, I’m Herbalist
 - 👀 I’m interested in learning programming for data engineers
 - 💞️ I’m looking to collaborate on programming projects. 
 
